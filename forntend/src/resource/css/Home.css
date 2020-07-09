@@ -1,0 +1,34 @@
+.homemMenuButton{
+    color:white;
+    background-color:rgb(8, 240, 8);
+    margin-right: 10px;
+    height: 50px;
+    width: 100px;
+    left:10px;
+    bottom: 10px;
+}
+
+.homemMenuButton:hover,.homemMenuButton:active, .homemMenuButton:focus{
+    color: #149d89;
+    background-color:white;
+    border-color: white;
+}
+.site-layout-content {
+    background: #fff;
+    padding: 24px;
+    min-height: 280px;
+  }
+  #components-layout-demo-top 
+.logo {
+    width: 120px;
+    height: 31px;
+    background: rgb(255, 255, 255);
+    margin: 16px 24px 16px 0;
+    float: right;
+  }
+  .back_home{
+    background-image:url('../image/bishe.png');
+     background-size: 100% 100%;
+     background-repeat:no-repeat;
+     padding-bottom:50%;
+  }

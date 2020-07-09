@@ -1,0 +1,848 @@
+2019-03-07 12:33:58,676 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-07 12:33:58,677 werkzeug     INFO      * Restarting with stat
+2019-03-07 12:33:59,003 werkzeug     WARNING   * Debugger is active!
+2019-03-07 12:33:59,004 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-07 13:29:11,550 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-07 13:29:11,551 werkzeug     INFO      * Restarting with stat
+2019-03-07 13:29:11,882 werkzeug     WARNING   * Debugger is active!
+2019-03-07 13:29:11,883 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-07 13:30:44,648 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-07 13:30:44,649 werkzeug     INFO      * Restarting with stat
+2019-03-07 13:30:44,967 werkzeug     WARNING   * Debugger is active!
+2019-03-07 13:30:44,968 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-07 13:31:18,928 app          DEBUG    Start Once Access, and this requestId is 1551936678928332
+2019-03-07 13:31:18,928 root         ERROR    receive a request!!!!!!!!
+2019-03-07 13:31:18,931 root         DEBUG    {"AccessLog": {"status_code": 302, "method": "GET", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/chat/talk", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1551936678928332"}}
+2019-03-07 13:31:18,931 root         ERROR    process finish a request!!!!!!!!
+2019-03-07 13:31:18,932 werkzeug     INFO     10.111.25.92 - - [07/Mar/2019 13:31:18] "GET /chat/talk HTTP/1.1" 302 -
+2019-03-07 13:31:43,167 app          DEBUG    Start Once Access, and this requestId is 1551936703167284
+2019-03-07 13:31:43,167 root         ERROR    receive a request!!!!!!!!
+2019-03-07 13:31:43,168 root         DEBUG    {"AccessLog": {"status_code": 302, "method": "GET", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/query_status", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1551936703167284"}}
+2019-03-07 13:31:43,169 root         ERROR    process finish a request!!!!!!!!
+2019-03-07 13:31:43,169 werkzeug     INFO     10.111.25.92 - - [07/Mar/2019 13:31:43] "GET /user/user/query_status HTTP/1.1" 302 -
+2019-03-07 19:47:31,744 app          DEBUG    Start Once Access, and this requestId is 1551959251744233
+2019-03-07 19:47:31,744 root         ERROR    receive a request!!!!!!!!
+2019-03-07 19:47:31,747 root         DEBUG    {"AccessLog": {"status_code": 302, "method": "POST", "form": {}, "json": {"callId": 1, "tts": "{\"name\":\"城\"}", "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1551959251744233"}}
+2019-03-07 19:47:31,748 root         ERROR    process finish a request!!!!!!!!
+2019-03-07 19:47:31,748 werkzeug     INFO     10.111.23.237 - - [07/Mar/2019 19:47:31] "POST /user/user/add_task HTTP/1.1" 302 -
+2019-03-07 19:56:05,924 app          DEBUG    Start Once Access, and this requestId is 1551959765924617
+2019-03-07 19:56:05,925 root         ERROR    receive a request!!!!!!!!
+2019-03-07 19:56:05,926 root         DEBUG    {"AccessLog": {"status_code": 302, "method": "POST", "form": {}, "json": {"callId": 1, "tts": "{\"name\":\"城\"}", "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1551959765924617"}}
+2019-03-07 19:56:05,927 root         ERROR    process finish a request!!!!!!!!
+2019-03-07 19:56:05,927 werkzeug     INFO     10.111.23.237 - - [07/Mar/2019 19:56:05] "POST /user/user/add_task HTTP/1.1" 302 -
+2019-03-07 20:29:05,423 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-07 20:29:05,424 werkzeug     INFO      * Restarting with stat
+2019-03-07 20:29:05,766 werkzeug     WARNING   * Debugger is active!
+2019-03-07 20:29:05,768 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-07 20:29:11,473 app          DEBUG    Start Once Access, and this requestId is 1551961751472923
+2019-03-07 20:29:11,473 root         ERROR    receive a request!!!!!!!!
+2019-03-07 20:29:11,474 root         DEBUG    {"AccessLog": {"status_code": 302, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1551961751472923"}}
+2019-03-07 20:29:11,475 root         ERROR    process finish a request!!!!!!!!
+2019-03-07 20:29:11,475 werkzeug     INFO     10.111.25.92 - - [07/Mar/2019 20:29:11] "POST /user/user/add_task HTTP/1.1" 302 -
+2019-03-07 20:29:41,800 app          DEBUG    Start Once Access, and this requestId is 1551961781800009
+2019-03-07 20:29:41,800 root         ERROR    receive a request!!!!!!!!
+2019-03-07 20:29:41,802 root         DEBUG    {"AccessLog": {"status_code": 302, "method": "POST", "form": {"phone": "615201279608", "job": "cuishou", "businessId": "1", "taskId": "1", "callId": "1", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "tts": "{\"name\":\"城\"}"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task?phone=615201279608&job=cuishou&businessId=1&taskId=1&callId=1&result_begin_url=http:%2F%2F10.111.23.237:8091%2FsmartCall%2Fapi%2Fcall%2FcallStart&result_end_url=http:%2F%2F10.111.23.237:8091%2FsmartCall%2Fapi%2Fcall%2FcallEnd&result_dlg_url=http:%2F%2F10.111.23.237:8091%2FsmartCall%2Fapi%2Fcall%2Frobot%2FsaveDialog&tts={\"name\":\"城\"}", "referer": null, "agent": "PostmanRuntime/7.6.0", "requestId": "1551961781800009"}}
+2019-03-07 20:29:41,803 root         ERROR    process finish a request!!!!!!!!
+2019-03-07 20:29:41,803 werkzeug     INFO     10.111.23.237 - - [07/Mar/2019 20:29:41] "POST /user/user/add_task?phone=615201279608&job=cuishou&businessId=1&taskId=1&callId=1&result_begin_url=http://10.111.23.237:8091/smartCall/api/call/callStart&result_end_url=http://10.111.23.237:8091/smartCall/api/call/callEnd&result_dlg_url=http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog&tts=%7B%22name%22:%22%E5%9F%8E%22%7D HTTP/1.1" 302 -
+2019-03-07 20:30:06,753 app          DEBUG    Start Once Access, and this requestId is 1551961806752995
+2019-03-07 20:30:06,753 root         ERROR    receive a request!!!!!!!!
+2019-03-07 20:30:06,755 root         DEBUG    {"AccessLog": {"status_code": 302, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1551961806752995"}}
+2019-03-07 20:30:06,756 root         ERROR    process finish a request!!!!!!!!
+2019-03-07 20:30:06,756 werkzeug     INFO     10.111.23.237 - - [07/Mar/2019 20:30:06] "POST /user/user/add_task HTTP/1.1" 302 -
+2019-03-08 09:50:53,718 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-08 09:50:53,767 werkzeug     INFO      * Restarting with stat
+2019-03-08 09:50:54,103 werkzeug     WARNING   * Debugger is active!
+2019-03-08 09:50:54,104 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 09:51:03,426 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-08 09:51:03,426 werkzeug     INFO      * Restarting with stat
+2019-03-08 09:51:03,760 werkzeug     WARNING   * Debugger is active!
+2019-03-08 09:51:03,761 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 09:51:53,703 app          DEBUG    Start Once Access, and this requestId is 1552009913703216
+2019-03-08 09:51:53,703 root         ERROR    receive a request!!!!!!!!
+2019-03-08 09:51:53,704 app.aicall.views ERROR    name 'requests' is not defined
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 141, in add_task
+    requests.post(cfg.DPCTRL_URL+request.path, data=request.form.to_dict())
+NameError: name 'requests' is not defined
+2019-03-08 09:51:53,708 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552009913703216"}}
+2019-03-08 09:51:53,708 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 09:51:53,709 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 09:51:53] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-08 09:52:17,315 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-08 09:52:17,363 werkzeug     INFO      * Restarting with stat
+2019-03-08 09:53:05,290 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-08 09:53:05,291 werkzeug     INFO      * Restarting with stat
+2019-03-08 09:53:05,678 werkzeug     WARNING   * Debugger is active!
+2019-03-08 09:53:05,679 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 09:53:08,514 app          DEBUG    Start Once Access, and this requestId is 1552009988514419
+2019-03-08 09:53:08,514 root         ERROR    receive a request!!!!!!!!
+2019-03-08 09:53:08,520 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 09:53:08,522 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 09:53:08,523 app.aicall.views ERROR    module 'requests' has no attribute 'text'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 144, in add_task
+    return requests.text
+AttributeError: module 'requests' has no attribute 'text'
+2019-03-08 09:53:08,526 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552009988514419"}}
+2019-03-08 09:53:08,527 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 09:53:08,527 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 09:53:08] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-08 09:54:43,583 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-08 09:54:43,646 werkzeug     INFO      * Restarting with stat
+2019-03-08 09:54:44,064 werkzeug     WARNING   * Debugger is active!
+2019-03-08 09:54:44,065 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 09:54:46,196 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-08 09:54:46,197 werkzeug     INFO      * Restarting with stat
+2019-03-08 09:54:46,592 werkzeug     WARNING   * Debugger is active!
+2019-03-08 09:54:46,593 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 10:03:07,653 app          DEBUG    Start Once Access, and this requestId is 1552010587652894
+2019-03-08 10:03:07,653 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:03:07,660 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:03:07,662 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:03:07,665 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552010587652894"}}
+2019-03-08 10:03:07,665 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:03:07,666 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:03:07] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:04:45,071 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-08 10:04:45,139 werkzeug     INFO      * Restarting with stat
+2019-03-08 10:04:45,525 werkzeug     WARNING   * Debugger is active!
+2019-03-08 10:04:45,526 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 10:04:48,235 app          DEBUG    Start Once Access, and this requestId is 1552010688235710
+2019-03-08 10:04:48,236 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:04:48,241 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:04:48,243 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:04:48,244 app.aicall.views ERROR    Object of type 'method' is not JSON serializable
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 145, in add_task
+    return make_response(jsonify(ret.json), 200)
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/json/__init__.py", line 321, in jsonify
+    dumps(data, indent=indent, separators=separators) + '\n',
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/json/__init__.py", line 179, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/local/python3/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/python3/lib/python3.6/json/encoder.py", line 201, in encode
+    chunks = list(chunks)
+  File "/usr/local/python3/lib/python3.6/json/encoder.py", line 437, in _iterencode
+    o = _default(o)
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/json/__init__.py", line 81, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/local/python3/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'method' is not JSON serializable
+2019-03-08 10:04:48,247 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552010688235710"}}
+2019-03-08 10:04:48,247 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:04:48,248 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:04:48] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-08 10:06:02,376 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-08 10:06:02,434 werkzeug     INFO      * Restarting with stat
+2019-03-08 10:06:02,830 werkzeug     WARNING   * Debugger is active!
+2019-03-08 10:06:02,831 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 10:06:04,006 app          DEBUG    Start Once Access, and this requestId is 1552010764006367
+2019-03-08 10:06:04,006 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:06:04,011 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:06:04,013 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:06:04,014 app.aicall.views ERROR    Object of type 'method' is not JSON serializable
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 145, in add_task
+    return make_response(jsonify(ret.json), 200)
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/json/__init__.py", line 321, in jsonify
+    dumps(data, indent=indent, separators=separators) + '\n',
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/json/__init__.py", line 179, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/local/python3/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/python3/lib/python3.6/json/encoder.py", line 201, in encode
+    chunks = list(chunks)
+  File "/usr/local/python3/lib/python3.6/json/encoder.py", line 437, in _iterencode
+    o = _default(o)
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/json/__init__.py", line 81, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/local/python3/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'method' is not JSON serializable
+2019-03-08 10:06:04,017 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552010764006367"}}
+2019-03-08 10:06:04,018 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:06:04,018 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:06:04] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-08 10:08:23,100 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-08 10:08:23,163 werkzeug     INFO      * Restarting with stat
+2019-03-08 10:08:23,556 werkzeug     WARNING   * Debugger is active!
+2019-03-08 10:08:23,557 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 10:08:28,164 app          DEBUG    Start Once Access, and this requestId is 1552010908164512
+2019-03-08 10:08:28,165 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:08:28,171 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:08:28,174 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:08:28,177 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552010908164512"}}
+2019-03-08 10:08:28,178 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:08:28,178 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:08:28] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:10:15,440 app          DEBUG    Start Once Access, and this requestId is 1552011015440678
+2019-03-08 10:10:15,441 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:10:15,444 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:10:15,447 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:10:15,449 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552011015440678"}}
+2019-03-08 10:10:15,450 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:10:15,450 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:10:15] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:10:54,033 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-08 10:10:54,090 werkzeug     INFO      * Restarting with stat
+2019-03-08 10:10:54,474 werkzeug     WARNING   * Debugger is active!
+2019-03-08 10:10:54,475 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 10:10:55,732 app          DEBUG    Start Once Access, and this requestId is 1552011055732062
+2019-03-08 10:10:55,732 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:10:55,739 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:10:55,741 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:10:55,743 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552011055732062"}}
+2019-03-08 10:10:55,744 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:10:55,744 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:10:55] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:12:15,353 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-08 10:12:15,401 werkzeug     INFO      * Restarting with stat
+2019-03-08 10:12:15,792 werkzeug     WARNING   * Debugger is active!
+2019-03-08 10:12:15,794 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 10:12:19,032 app          DEBUG    Start Once Access, and this requestId is 1552011139032902
+2019-03-08 10:12:19,033 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:12:19,037 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:12:19,039 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:12:19,041 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552011139032902"}}
+2019-03-08 10:12:19,042 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:12:19,042 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:12:19] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:13:43,721 app          DEBUG    Start Once Access, and this requestId is 1552011223721006
+2019-03-08 10:13:43,722 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:13:43,727 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:13:43,729 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:13:43,731 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552011223721006"}}
+2019-03-08 10:13:43,731 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:13:43,732 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:13:43] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:14:29,037 app          DEBUG    Start Once Access, and this requestId is 1552011269037227
+2019-03-08 10:14:29,037 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:14:29,041 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:14:29,042 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:14:29,045 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552011269037227"}}
+2019-03-08 10:14:29,045 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:14:29,045 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:14:29] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:16:53,416 app          DEBUG    Start Once Access, and this requestId is 1552011413416226
+2019-03-08 10:16:53,416 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:16:53,423 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:16:53,425 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 61
+2019-03-08 10:16:53,428 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "613810099552", "job": "cuishou", "businessId": "1", "taskId": "1", "callId": "1", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "tts": "{\"name\":\"城\"}"}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552011413416226"}}
+2019-03-08 10:16:53,428 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:16:53,428 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:16:53] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:17:43,600 app          DEBUG    Start Once Access, and this requestId is 1552011463600882
+2019-03-08 10:17:43,601 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:17:43,606 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:17:43,608 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 760
+2019-03-08 10:17:43,610 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "613810099552", "job": "msyh_cuishou", "businessId": "1", "taskId": "1", "callId": "1", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "tts": "{\"name\":\"城\"}"}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552011463600882"}}
+2019-03-08 10:17:43,611 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:17:43,611 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:17:43] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:20:39,015 app          DEBUG    Start Once Access, and this requestId is 1552011639015021
+2019-03-08 10:20:39,015 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:20:39,019 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:20:39,020 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 760
+2019-03-08 10:20:39,022 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552011639015021"}}
+2019-03-08 10:20:39,022 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:20:39,022 werkzeug     INFO     10.111.23.237 - - [08/Mar/2019 10:20:39] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 10:48:37,159 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-08 10:48:37,160 werkzeug     INFO      * Restarting with stat
+2019-03-08 10:48:37,539 werkzeug     WARNING   * Debugger is active!
+2019-03-08 10:48:37,540 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 10:53:03,250 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-08 10:53:03,251 werkzeug     INFO      * Restarting with stat
+2019-03-08 10:53:03,631 werkzeug     WARNING   * Debugger is active!
+2019-03-08 10:53:03,632 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 10:53:38,486 app          DEBUG    Start Once Access, and this requestId is 1552013618485943
+2019-03-08 10:53:38,486 root         ERROR    receive a request!!!!!!!!
+2019-03-08 10:53:38,493 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 10:53:38,495 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 10:53:38,502 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552013618485943"}}
+2019-03-08 10:53:38,502 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 10:53:38,503 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 10:53:38] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 12:14:55,374 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-08 12:14:55,375 werkzeug     INFO      * Restarting with stat
+2019-03-08 12:14:55,753 werkzeug     WARNING   * Debugger is active!
+2019-03-08 12:14:55,754 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 12:14:55,819 app          DEBUG    Start Once Access, and this requestId is 1552018495819770
+2019-03-08 12:14:55,820 root         ERROR    receive a request!!!!!!!!
+2019-03-08 12:14:55,822 root         DEBUG    {"AccessLog": {"status_code": 404, "method": "GET", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552018495819770"}}
+2019-03-08 12:14:55,823 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 12:14:55,823 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 12:14:55] "GET / HTTP/1.1" 404 -
+2019-03-08 12:15:03,750 app          DEBUG    Start Once Access, and this requestId is 1552018503750502
+2019-03-08 12:15:03,750 root         ERROR    receive a request!!!!!!!!
+2019-03-08 12:15:03,752 root         DEBUG    {"AccessLog": {"status_code": 404, "method": "GET", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552018503750502"}}
+2019-03-08 12:15:03,752 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 12:15:03,752 werkzeug     INFO     10.111.25.92 - - [08/Mar/2019 12:15:03] "GET / HTTP/1.1" 404 -
+2019-03-08 12:22:04,818 app          DEBUG    Start Once Access, and this requestId is 1552018924818496
+2019-03-08 12:22:04,818 root         ERROR    receive a request!!!!!!!!
+2019-03-08 12:22:04,821 root         DEBUG    {"AccessLog": {"status_code": 404, "method": "GET", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552018924818496"}}
+2019-03-08 12:22:04,822 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 12:22:09,129 app          DEBUG    Start Once Access, and this requestId is 1552018929129178
+2019-03-08 12:22:09,129 root         ERROR    receive a request!!!!!!!!
+2019-03-08 12:22:09,131 root         DEBUG    {"AccessLog": {"status_code": 404, "method": "GET", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/talk", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552018929129178"}}
+2019-03-08 12:22:09,131 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 12:23:47,474 app          DEBUG    Start Once Access, and this requestId is 1552019027474733
+2019-03-08 12:23:47,475 root         ERROR    receive a request!!!!!!!!
+2019-03-08 12:23:47,480 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 12:23:47,482 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 760
+2019-03-08 12:23:47,484 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552019027474733"}}
+2019-03-08 12:23:47,485 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 18:35:34,869 app          DEBUG    Start Once Access, and this requestId is 1552041334869225
+2019-03-08 18:35:34,869 root         ERROR    receive a request!!!!!!!!
+2019-03-08 18:35:34,872 root         DEBUG    {"AccessLog": {"status_code": 405, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/chat/talk", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552041334869225"}}
+2019-03-08 18:35:34,872 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 18:35:52,156 app          DEBUG    Start Once Access, and this requestId is 1552041352156066
+2019-03-08 18:35:52,156 root         ERROR    receive a request!!!!!!!!
+2019-03-08 18:35:52,161 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 18:35:52,163 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-08 18:35:52,165 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552041352156066"}}
+2019-03-08 18:35:52,166 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 18:36:58,630 app          DEBUG    Start Once Access, and this requestId is 1552041418630170
+2019-03-08 18:36:58,630 root         ERROR    receive a request!!!!!!!!
+2019-03-08 18:36:58,635 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 18:36:58,637 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-08 18:36:58,639 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "617778052354", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552041418630170"}}
+2019-03-08 18:36:58,639 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 18:44:06,132 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-08 18:44:06,133 werkzeug     INFO      * Restarting with stat
+2019-03-08 18:44:06,508 werkzeug     WARNING   * Debugger is active!
+2019-03-08 18:44:06,509 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-08 18:47:12,141 app          DEBUG    Start Once Access, and this requestId is 1552042032141137
+2019-03-08 18:47:12,141 root         ERROR    receive a request!!!!!!!!
+2019-03-08 18:47:12,148 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 18:47:12,150 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-08 18:47:12,153 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552042032141137"}}
+2019-03-08 18:47:12,153 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 18:47:12,154 werkzeug     INFO     10.111.25.34 - - [08/Mar/2019 18:47:12] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 18:52:38,897 app          DEBUG    Start Once Access, and this requestId is 1552042358896968
+2019-03-08 18:52:38,897 root         ERROR    receive a request!!!!!!!!
+2019-03-08 18:52:38,900 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 18:52:38,902 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-08 18:52:38,904 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552042358896968"}}
+2019-03-08 18:52:38,904 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 18:52:38,904 werkzeug     INFO     10.111.25.34 - - [08/Mar/2019 18:52:38] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 19:40:44,991 app          DEBUG    Start Once Access, and this requestId is 1552045244990970
+2019-03-08 19:40:44,991 root         ERROR    receive a request!!!!!!!!
+2019-03-08 19:40:44,996 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 19:40:44,998 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-08 19:40:45,000 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552045244990970"}}
+2019-03-08 19:40:45,001 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 19:40:45,001 werkzeug     INFO     10.111.25.34 - - [08/Mar/2019 19:40:45] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 19:41:56,354 app          DEBUG    Start Once Access, and this requestId is 1552045316354705
+2019-03-08 19:41:56,355 root         ERROR    receive a request!!!!!!!!
+2019-03-08 19:41:56,358 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 19:41:56,360 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-08 19:41:56,361 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552045316354705"}}
+2019-03-08 19:41:56,362 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 19:41:56,362 werkzeug     INFO     10.111.25.34 - - [08/Mar/2019 19:41:56] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 19:42:49,831 app          DEBUG    Start Once Access, and this requestId is 1552045369831502
+2019-03-08 19:42:49,832 root         ERROR    receive a request!!!!!!!!
+2019-03-08 19:42:49,836 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 19:42:49,837 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-08 19:42:49,840 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552045369831502"}}
+2019-03-08 19:42:49,840 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 19:42:49,841 werkzeug     INFO     10.111.25.34 - - [08/Mar/2019 19:42:49] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 19:42:53,009 app          DEBUG    Start Once Access, and this requestId is 1552045373009201
+2019-03-08 19:42:53,009 root         ERROR    receive a request!!!!!!!!
+2019-03-08 19:42:53,013 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 19:42:53,014 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-08 19:42:53,016 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552045373009201"}}
+2019-03-08 19:42:53,017 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 19:42:53,017 werkzeug     INFO     10.111.25.34 - - [08/Mar/2019 19:42:53] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 19:43:58,408 app          DEBUG    Start Once Access, and this requestId is 1552045438408107
+2019-03-08 19:43:58,408 root         ERROR    receive a request!!!!!!!!
+2019-03-08 19:43:58,412 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 19:43:58,413 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-08 19:43:58,415 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552045438408107"}}
+2019-03-08 19:43:58,416 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 19:43:58,416 werkzeug     INFO     10.111.25.34 - - [08/Mar/2019 19:43:58] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-08 19:49:06,470 app          DEBUG    Start Once Access, and this requestId is 1552045746470244
+2019-03-08 19:49:06,470 root         ERROR    receive a request!!!!!!!!
+2019-03-08 19:49:06,476 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-08 19:49:06,478 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-08 19:49:06,480 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "617778052354", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552045746470244"}}
+2019-03-08 19:49:06,480 root         ERROR    process finish a request!!!!!!!!
+2019-03-08 19:49:06,481 werkzeug     INFO     10.111.25.34 - - [08/Mar/2019 19:49:06] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 14:13:08,680 app          DEBUG    Start Once Access, and this requestId is 1552111988680147
+2019-03-09 14:13:08,680 root         ERROR    receive a request!!!!!!!!
+2019-03-09 14:13:08,684 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-09 14:13:08,685 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-09 14:13:08,688 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "617778052354", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552111988680147"}}
+2019-03-09 14:13:08,688 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 14:13:08,689 werkzeug     INFO     10.111.25.34 - - [09/Mar/2019 14:13:08] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 14:15:53,968 app          DEBUG    Start Once Access, and this requestId is 1552112153968067
+2019-03-09 14:15:53,968 root         ERROR    receive a request!!!!!!!!
+2019-03-09 14:15:53,972 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-09 14:15:53,974 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-09 14:15:53,976 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "617778052354", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552112153968067"}}
+2019-03-09 14:15:53,976 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 14:15:53,977 werkzeug     INFO     10.111.25.34 - - [09/Mar/2019 14:15:53] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 14:18:44,706 app          DEBUG    Start Once Access, and this requestId is 1552112324706100
+2019-03-09 14:18:44,706 root         ERROR    receive a request!!!!!!!!
+2019-03-09 14:18:44,709 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-09 14:18:44,711 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-09 14:18:44,713 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "617778052354", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552112324706100"}}
+2019-03-09 14:18:44,713 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 14:18:44,713 werkzeug     INFO     10.111.25.34 - - [09/Mar/2019 14:18:44] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 14:20:04,565 app          DEBUG    Start Once Access, and this requestId is 1552112404565353
+2019-03-09 14:20:04,566 root         ERROR    receive a request!!!!!!!!
+2019-03-09 14:20:04,571 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-09 14:20:04,573 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 757
+2019-03-09 14:20:04,574 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"phone": "617778052354", "result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.25.34:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.25.34:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552112404565353"}}
+2019-03-09 14:20:04,575 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 14:20:04,575 werkzeug     INFO     10.111.25.34 - - [09/Mar/2019 14:20:04] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 16:28:12,658 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 16:28:12,659 werkzeug     INFO      * Restarting with stat
+2019-03-09 16:28:13,073 werkzeug     WARNING   * Debugger is active!
+2019-03-09 16:28:13,074 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 16:28:56,542 app          DEBUG    Start Once Access, and this requestId is 1552120136542336
+2019-03-09 16:28:56,542 root         ERROR    receive a request!!!!!!!!
+2019-03-09 16:28:56,548 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-09 16:28:56,550 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-09 16:28:56,552 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552120136542336"}}
+2019-03-09 16:28:56,553 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 16:28:56,553 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 16:28:56] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 16:31:08,072 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 16:31:08,073 werkzeug     INFO      * Restarting with stat
+2019-03-09 16:31:08,458 werkzeug     WARNING   * Debugger is active!
+2019-03-09 16:31:08,460 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 16:31:10,881 app          DEBUG    Start Once Access, and this requestId is 1552120270880927
+2019-03-09 16:31:10,881 root         ERROR    receive a request!!!!!!!!
+2019-03-09 16:31:10,886 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-09 16:31:10,888 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-09 16:31:10,890 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552120270880927"}}
+2019-03-09 16:31:10,891 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 16:31:10,891 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 16:31:10] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 16:31:36,927 app          DEBUG    Start Once Access, and this requestId is 1552120296927085
+2019-03-09 16:31:36,927 root         ERROR    receive a request!!!!!!!!
+2019-03-09 16:31:36,931 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-09 16:31:36,933 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-09 16:31:36,935 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {"result_dlg_url": "http://10.111.25.34:8091/smartCall/api/call/robot/saveDialog"}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552120296927085"}}
+2019-03-09 16:31:36,936 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 16:31:36,936 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 16:31:36] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 17:21:27,653 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 17:21:27,654 werkzeug     INFO      * Restarting with stat
+2019-03-09 17:21:28,050 werkzeug     WARNING   * Debugger is active!
+2019-03-09 17:21:28,052 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 17:21:34,490 app          DEBUG    Start Once Access, and this requestId is 1552123294489978
+2019-03-09 17:21:34,490 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:21:34,495 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-09 17:21:34,497 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-09 17:21:34,499 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552123294489978"}}
+2019-03-09 17:21:34,499 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:21:34,500 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 17:21:34] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 17:23:27,571 app          DEBUG    Start Once Access, and this requestId is 1552123407571364
+2019-03-09 17:23:27,572 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:23:27,572 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 98, in update_model
+    dpctrl = gen_dpctrl(model_info)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 224, in gen_dpctrl
+    dpctrl = '\n['+ model.get('model_name') +']\n'
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-09 17:23:27,575 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"model_name": "\"51\"", "anodes": "[{\"is_break\":1,\"nid\":\"SI_2062_2\",\"content\":\"si话术内容\"}, {\"is_break\":1,\"nid\":\"SI_2063_2\",\"content\":\"si话术内容\"}, {\"is_break\":1,\"nid\":\"SI_2064_2\",\"content\":\"si话术内容#关键字1#\"}, {\"is_break\":1,\"nid\":\"SI_2065_206599\"}, {\"is_break\":1,\"nid\":\"SA_2062_2\",\"content\":\"sa话术内容[*SI_2062_2]\"}, {\"is_break\":1,\"nid\":\"SA_2063_2\",\"content\":\"sa话术内容[*SI_2063_2]\"}, {\"is_break\":1,\"nid\":\"SA_2064_1\",\"content\":\"。[*SI_2064_2]\"}, {\"is_break\":1,\"nid\":\"SA_2065_2\",\"content\":\"sa话术内容[*SI_2065_206599]\"}]", "inodes": "[{\"is_break\":1,\"nid\":\"SUI_UI_2059_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2060_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2059_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2060_1\",\"content\":\"string\"}]", "aprocess": "[{\"pid\":\"UA2046\",\"tip\":\"分支意图名称\",\"detail\":\"SI_2063_2->SA_2062_2\",\"user_talk\":\"关键字1 关键字2 关键字3\"}, {\"pid\":\"UA2047\",\"tip\":\"分支意图名称2\",\"detail\":\"SI_2062_2->SA_2064_1\",\"user_talk\":\"关键字1 关键字2 关键字3\"}, {\"pid\":\"UA2046\",\"tip\":\"分支意图名称\",\"detail\":\"SI_2064_2->SA_2065_2\",\"user_talk\":\"关键字1 关键字2 关键字3\"}]", "iprocess": "[{\"pid\":\"I_UI_2059_1\",\"tip\":\"模型51常见问答1\",\"detail\":\"SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1\",\"user_talk\":\"关键词1 关键词2\"}, {\"pid\":\"I_UI_2060_1\",\"tip\":\"模型51常见问答2\",\"detail\":\"SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1\",\"user_talk\":\"关键词3 关键词4\"}, {\"pid\":\"I_UI_2059_1\",\"tip\":\"模型51常见问答1\",\"detail\":\"SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1\",\"user_talk\":\"关键词1 关键词2\"}, {\"pid\":\"I_UI_2060_1\",\"tip\":\"模型51常见问答2\",\"detail\":\"SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1\",\"user_talk\":\"关键词3 关键词4\"}]", "tts": "[{\"tid\":\"SI_2062_2\",\"key\":\"\"}, {\"tid\":\"SA_2062_2\",\"key\":\"\"}, {\"tid\":\"SI_2063_2\",\"key\":\"\"}, {\"tid\":\"SA_2063_2\",\"key\":\"\"}, {\"tid\":\"SI_2064_2\",\"key\":\"keyOne\"}, {\"tid\":\"SA_2064_1\",\"key\":\"\"}, {\"tid\":\"SI_2065_206599\",\"key\":\"\"}, {\"tid\":\"SA_2065_2\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2059_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2060_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2059_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2060_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2061_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2061_2\",\"key\":\"\"}]", "cnodes": "[{\"is_break\":1,\"nid\":\"触发逻辑2353\",\"content\":\"通用对话话术列表1\"}, {\"is_break\":1,\"nid\":\"触发逻辑2354\",\"content\":\"通用对话话术列表2\"}]", "result": "[{\"node\":\"SA_2062_2\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2063_2\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2064_1\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2065_2\",\"lable\":\"意图结果\",\"type\":2}]"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "PostmanRuntime/7.6.0", "requestId": "1552123407571364"}}
+2019-03-09 17:23:27,576 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:23:27,576 werkzeug     INFO     10.111.23.237 - - [09/Mar/2019 17:23:27] "POST /user/user/update_model HTTP/1.1" 500 -
+2019-03-09 17:27:33,897 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 17:27:33,898 werkzeug     INFO      * Restarting with stat
+2019-03-09 17:27:34,276 werkzeug     WARNING   * Debugger is active!
+2019-03-09 17:27:34,277 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 17:27:39,232 app          DEBUG    Start Once Access, and this requestId is 1552123659232791
+2019-03-09 17:27:39,233 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:27:39,234 app.aicall.views ERROR    'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 98, in update_model
+    dpctrl = gen_dpctrl(model_info)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 243, in gen_dpctrl
+    if x.get('is_break','1')=='0':
+AttributeError: 'str' object has no attribute 'get'
+2019-03-09 17:27:39,236 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"model_name": "\"51\"", "anodes": "[{\"is_break\":1,\"nid\":\"SI_2062_2\",\"content\":\"si话术内容\"}, {\"is_break\":1,\"nid\":\"SI_2063_2\",\"content\":\"si话术内容\"}, {\"is_break\":1,\"nid\":\"SI_2064_2\",\"content\":\"si话术内容#关键字1#\"}, {\"is_break\":1,\"nid\":\"SI_2065_206599\"}, {\"is_break\":1,\"nid\":\"SA_2062_2\",\"content\":\"sa话术内容[*SI_2062_2]\"}, {\"is_break\":1,\"nid\":\"SA_2063_2\",\"content\":\"sa话术内容[*SI_2063_2]\"}, {\"is_break\":1,\"nid\":\"SA_2064_1\",\"content\":\"。[*SI_2064_2]\"}, {\"is_break\":1,\"nid\":\"SA_2065_2\",\"content\":\"sa话术内容[*SI_2065_206599]\"}]", "inodes": "[{\"is_break\":1,\"nid\":\"SUI_UI_2059_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2060_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2059_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2060_1\",\"content\":\"string\"}]", "aprocess": "[{\"pid\":\"UA2046\",\"tip\":\"分支意图名称\",\"detail\":\"SI_2063_2->SA_2062_2\",\"user_talk\":\"关键字1 关键字2 关键字3\"}, {\"pid\":\"UA2047\",\"tip\":\"分支意图名称2\",\"detail\":\"SI_2062_2->SA_2064_1\",\"user_talk\":\"关键字1 关键字2 关键字3\"}, {\"pid\":\"UA2046\",\"tip\":\"分支意图名称\",\"detail\":\"SI_2064_2->SA_2065_2\",\"user_talk\":\"关键字1 关键字2 关键字3\"}]", "iprocess": "[{\"pid\":\"I_UI_2059_1\",\"tip\":\"模型51常见问答1\",\"detail\":\"SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1\",\"user_talk\":\"关键词1 关键词2\"}, {\"pid\":\"I_UI_2060_1\",\"tip\":\"模型51常见问答2\",\"detail\":\"SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1\",\"user_talk\":\"关键词3 关键词4\"}, {\"pid\":\"I_UI_2059_1\",\"tip\":\"模型51常见问答1\",\"detail\":\"SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1\",\"user_talk\":\"关键词1 关键词2\"}, {\"pid\":\"I_UI_2060_1\",\"tip\":\"模型51常见问答2\",\"detail\":\"SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1\",\"user_talk\":\"关键词3 关键词4\"}]", "tts": "[{\"tid\":\"SI_2062_2\",\"key\":\"\"}, {\"tid\":\"SA_2062_2\",\"key\":\"\"}, {\"tid\":\"SI_2063_2\",\"key\":\"\"}, {\"tid\":\"SA_2063_2\",\"key\":\"\"}, {\"tid\":\"SI_2064_2\",\"key\":\"keyOne\"}, {\"tid\":\"SA_2064_1\",\"key\":\"\"}, {\"tid\":\"SI_2065_206599\",\"key\":\"\"}, {\"tid\":\"SA_2065_2\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2059_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2060_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2059_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2060_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2061_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2061_2\",\"key\":\"\"}]", "cnodes": "[{\"is_break\":1,\"nid\":\"触发逻辑2353\",\"content\":\"通用对话话术列表1\"}, {\"is_break\":1,\"nid\":\"触发逻辑2354\",\"content\":\"通用对话话术列表2\"}]", "result": "[{\"node\":\"SA_2062_2\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2063_2\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2064_1\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2065_2\",\"lable\":\"意图结果\",\"type\":2}]"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "PostmanRuntime/7.6.0", "requestId": "1552123659232791"}}
+2019-03-09 17:27:39,237 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:27:39,237 werkzeug     INFO     10.111.23.237 - - [09/Mar/2019 17:27:39] "POST /user/user/update_model HTTP/1.1" 500 -
+2019-03-09 17:31:59,056 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 17:31:59,057 werkzeug     INFO      * Restarting with stat
+2019-03-09 17:31:59,429 werkzeug     WARNING   * Debugger is active!
+2019-03-09 17:31:59,430 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 17:33:01,427 app          DEBUG    Start Once Access, and this requestId is 1552123981426974
+2019-03-09 17:33:01,427 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:33:01,427 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 98, in update_model
+    dpctrl = gen_dpctrl(model_info)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 224, in gen_dpctrl
+    dpctrl = '\n['+ model.get('model_name') +']\n'
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-09 17:33:01,430 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {}, "json": {"result": "[{\"node\":\"SA_2062_2\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2063_2\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2064_1\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2065_2\",\"lable\":\"意图结果\",\"type\":2}]", "aprocess": "[{\"pid\":\"UA2046\",\"tip\":\"分支意图名称\",\"detail\":\"SI_2063_2->SA_2062_2\",\"user_talk\":\"关键字1 关键字2 关键字3\"}, {\"pid\":\"UA2047\",\"tip\":\"分支意图名称2\",\"detail\":\"SI_2062_2->SA_2064_1\",\"user_talk\":\"关键字1 关键字2 关键字3\"}, {\"pid\":\"UA2046\",\"tip\":\"分支意图名称\",\"detail\":\"SI_2064_2->SA_2065_2\",\"user_talk\":\"关键字1 关键字2 关键字3\"}]", "tts": "[{\"tid\":\"SI_2062_2\",\"key\":\"\"}, {\"tid\":\"SA_2062_2\",\"key\":\"\"}, {\"tid\":\"SI_2063_2\",\"key\":\"\"}, {\"tid\":\"SA_2063_2\",\"key\":\"\"}, {\"tid\":\"SI_2064_2\",\"key\":\"keyOne\"}, {\"tid\":\"SA_2064_1\",\"key\":\"\"}, {\"tid\":\"SI_2065_206599\",\"key\":\"\"}, {\"tid\":\"SA_2065_2\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2059_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2060_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2059_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2060_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2061_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2061_2\",\"key\":\"\"}]", "model_name": "51", "inodes": "[{\"is_break\":1,\"nid\":\"SUI_UI_2059_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2060_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2059_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2060_1\",\"content\":\"string\"}]", "anodes": "[{\"is_break\":1,\"nid\":\"SI_2062_2\",\"content\":\"si话术内容\"}, {\"is_break\":1,\"nid\":\"SI_2063_2\",\"content\":\"si话术内容\"}, {\"is_break\":1,\"nid\":\"SI_2064_2\",\"content\":\"si话术内容#关键字1#\"}, {\"is_break\":1,\"nid\":\"SI_2065_206599\"}, {\"is_break\":1,\"nid\":\"SA_2062_2\",\"content\":\"sa话术内容[*SI_2062_2]\"}, {\"is_break\":1,\"nid\":\"SA_2063_2\",\"content\":\"sa话术内容[*SI_2063_2]\"}, {\"is_break\":1,\"nid\":\"SA_2064_1\",\"content\":\"。[*SI_2064_2]\"}, {\"is_break\":1,\"nid\":\"SA_2065_2\",\"content\":\"sa话术内容[*SI_2065_206599]\"}]", "iprocess": "[{\"pid\":\"I_UI_2059_1\",\"tip\":\"模型51常见问答1\",\"detail\":\"SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1\",\"user_talk\":\"关键词1 关键词2\"}, {\"pid\":\"I_UI_2060_1\",\"tip\":\"模型51常见问答2\",\"detail\":\"SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1\",\"user_talk\":\"关键词3 关键词4\"}, {\"pid\":\"I_UI_2059_1\",\"tip\":\"模型51常见问答1\",\"detail\":\"SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1\",\"user_talk\":\"关键词1 关键词2\"}, {\"pid\":\"I_UI_2060_1\",\"tip\":\"模型51常见问答2\",\"detail\":\"SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1\",\"user_talk\":\"关键词3 关键词4\"}]", "cnodes": "[{\"is_break\":1,\"nid\":\"触发逻辑2353\",\"content\":\"通用对话话术列表1\"}, {\"is_break\":1,\"nid\":\"触发逻辑2354\",\"content\":\"通用对话话术列表2\"}]"}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "PostmanRuntime/7.6.0", "requestId": "1552123981426974"}}
+2019-03-09 17:33:01,431 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:33:01,432 werkzeug     INFO     10.111.23.237 - - [09/Mar/2019 17:33:01] "POST /user/user/update_model HTTP/1.1" 500 -
+2019-03-09 17:33:14,560 app          DEBUG    Start Once Access, and this requestId is 1552123994560533
+2019-03-09 17:33:14,560 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:33:14,561 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 145, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-09 17:33:14,563 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"{\"result_dlg_url\":\"vresult_dlg_url\",\"result_begin_url\":\"result_begin_url\",\"result_end_url\":\"result_end_url\"}": ""}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552123994560533"}}
+2019-03-09 17:33:14,563 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:33:14,563 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 17:33:14] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-09 17:33:40,447 app          DEBUG    Start Once Access, and this requestId is 1552124020447544
+2019-03-09 17:33:40,448 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:33:40,453 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-09 17:33:40,456 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 59
+2019-03-09 17:33:40,457 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"result_dlg_url": "vresult_dlg_url", "result_begin_url": "result_begin_url", "result_end_url": "result_end_url"}, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552124020447544"}}
+2019-03-09 17:33:40,457 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:33:40,458 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 17:33:40] "POST /user/user/add_task HTTP/1.1" 200 -
+2019-03-09 17:35:01,122 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 17:35:01,123 werkzeug     INFO      * Restarting with stat
+2019-03-09 17:35:01,518 werkzeug     WARNING   * Debugger is active!
+2019-03-09 17:35:01,519 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 17:35:38,838 app          DEBUG    Start Once Access, and this requestId is 1552124138837908
+2019-03-09 17:35:38,838 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:35:38,840 root         DEBUG    {"AccessLog": {"status_code": 400, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552124138837908"}}
+2019-03-09 17:35:38,841 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:35:38,841 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 17:35:38] "POST /user/user/add_task HTTP/1.1" 400 -
+2019-03-09 17:36:10,967 app          DEBUG    Start Once Access, and this requestId is 1552124170967572
+2019-03-09 17:36:10,967 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:36:10,969 root         DEBUG    {"AccessLog": {"status_code": 404, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/aicall/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552124170967572"}}
+2019-03-09 17:36:10,969 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:36:10,969 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 17:36:10] "POST /aicall/update_model HTTP/1.1" 404 -
+2019-03-09 17:36:28,982 app          DEBUG    Start Once Access, and this requestId is 1552124188981983
+2019-03-09 17:36:28,983 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:36:28,985 root         DEBUG    {"AccessLog": {"status_code": 400, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552124188981983"}}
+2019-03-09 17:36:28,986 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:36:28,986 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 17:36:28] "POST /user/user/update_model HTTP/1.1" 400 -
+2019-03-09 17:37:01,716 app          DEBUG    Start Once Access, and this requestId is 1552124221716402
+2019-03-09 17:37:01,717 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:37:01,718 root         DEBUG    {"AccessLog": {"status_code": 400, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552124221716402"}}
+2019-03-09 17:37:01,719 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:37:01,719 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 17:37:01] "POST /user/user/update_model HTTP/1.1" 400 -
+2019-03-09 17:38:32,772 app          DEBUG    Start Once Access, and this requestId is 1552124312771962
+2019-03-09 17:38:32,772 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:38:32,773 app.aicall.views ERROR    must be str, not NoneType
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 99, in update_model
+    dpctrl = gen_dpctrl(model_info)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 225, in gen_dpctrl
+    dpctrl = '\n['+ model.get('model_name') +']\n'
+TypeError: must be str, not NoneType
+2019-03-09 17:38:32,776 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {}, "json": {"node": "SA_2062_2", "lable": "意图结果", "type": 2}, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552124312771962"}}
+2019-03-09 17:38:32,776 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:38:32,776 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 17:38:32] "POST /user/user/update_model HTTP/1.1" 500 -
+2019-03-09 17:38:54,883 app          DEBUG    Start Once Access, and this requestId is 1552124334883827
+2019-03-09 17:38:54,884 root         ERROR    receive a request!!!!!!!!
+2019-03-09 17:38:54,885 app.aicall.views ERROR    'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 99, in update_model
+    dpctrl = gen_dpctrl(model_info)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 244, in gen_dpctrl
+    if x.get('is_break','1')=='0':
+AttributeError: 'str' object has no attribute 'get'
+2019-03-09 17:38:54,886 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {}, "json": {"result": "[{\"node\":\"SA_2062_2\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2063_2\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2064_1\",\"lable\":\"意图结果\",\"type\":2}, {\"node\":\"SA_2065_2\",\"lable\":\"意图结果\",\"type\":2}]", "aprocess": "[{\"pid\":\"UA2046\",\"tip\":\"分支意图名称\",\"detail\":\"SI_2063_2->SA_2062_2\",\"user_talk\":\"关键字1 关键字2 关键字3\"}, {\"pid\":\"UA2047\",\"tip\":\"分支意图名称2\",\"detail\":\"SI_2062_2->SA_2064_1\",\"user_talk\":\"关键字1 关键字2 关键字3\"}, {\"pid\":\"UA2046\",\"tip\":\"分支意图名称\",\"detail\":\"SI_2064_2->SA_2065_2\",\"user_talk\":\"关键字1 关键字2 关键字3\"}]", "tts": "[{\"tid\":\"SI_2062_2\",\"key\":\"\"}, {\"tid\":\"SA_2062_2\",\"key\":\"\"}, {\"tid\":\"SI_2063_2\",\"key\":\"\"}, {\"tid\":\"SA_2063_2\",\"key\":\"\"}, {\"tid\":\"SI_2064_2\",\"key\":\"keyOne\"}, {\"tid\":\"SA_2064_1\",\"key\":\"\"}, {\"tid\":\"SI_2065_206599\",\"key\":\"\"}, {\"tid\":\"SA_2065_2\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2059_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2060_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2059_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2060_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2061_1\",\"key\":\"\"}, {\"tid\":\"SUI_UI_2061_2\",\"key\":\"\"}]", "model_name": "51", "inodes": "[{\"is_break\":1,\"nid\":\"SUI_UI_2059_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2060_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2059_1\",\"content\":\"string\"}, {\"is_break\":1,\"nid\":\"SUI_UI_2060_1\",\"content\":\"string\"}]", "anodes": "[{\"is_break\":1,\"nid\":\"SI_2062_2\",\"content\":\"si话术内容\"}, {\"is_break\":1,\"nid\":\"SI_2063_2\",\"content\":\"si话术内容\"}, {\"is_break\":1,\"nid\":\"SI_2064_2\",\"content\":\"si话术内容#关键字1#\"}, {\"is_break\":1,\"nid\":\"SI_2065_206599\"}, {\"is_break\":1,\"nid\":\"SA_2062_2\",\"content\":\"sa话术内容[*SI_2062_2]\"}, {\"is_break\":1,\"nid\":\"SA_2063_2\",\"content\":\"sa话术内容[*SI_2063_2]\"}, {\"is_break\":1,\"nid\":\"SA_2064_1\",\"content\":\"。[*SI_2064_2]\"}, {\"is_break\":1,\"nid\":\"SA_2065_2\",\"content\":\"sa话术内容[*SI_2065_206599]\"}]", "iprocess": "[{\"pid\":\"I_UI_2059_1\",\"tip\":\"模型51常见问答1\",\"detail\":\"SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1\",\"user_talk\":\"关键词1 关键词2\"}, {\"pid\":\"I_UI_2060_1\",\"tip\":\"模型51常见问答2\",\"detail\":\"SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1\",\"user_talk\":\"关键词3 关键词4\"}, {\"pid\":\"I_UI_2059_1\",\"tip\":\"模型51常见问答1\",\"detail\":\"SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1\",\"user_talk\":\"关键词1 关键词2\"}, {\"pid\":\"I_UI_2060_1\",\"tip\":\"模型51常见问答2\",\"detail\":\"SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1\",\"user_talk\":\"关键词3 关键词4\"}]", "cnodes": "[{\"is_break\":1,\"nid\":\"触发逻辑2353\",\"content\":\"通用对话话术列表1\"}, {\"is_break\":1,\"nid\":\"触发逻辑2354\",\"content\":\"通用对话话术列表2\"}]"}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "PostmanRuntime/7.6.0", "requestId": "1552124334883827"}}
+2019-03-09 17:38:54,886 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 17:38:54,887 werkzeug     INFO     10.111.23.237 - - [09/Mar/2019 17:38:54] "POST /user/user/update_model HTTP/1.1" 500 -
+2019-03-09 18:42:29,153 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 18:42:29,154 werkzeug     INFO      * Restarting with stat
+2019-03-09 18:42:29,529 werkzeug     WARNING   * Debugger is active!
+2019-03-09 18:42:29,531 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 18:42:45,693 app          DEBUG    Start Once Access, and this requestId is 1552128165693760
+2019-03-09 18:42:45,694 root         ERROR    receive a request!!!!!!!!
+2019-03-09 18:42:45,695 app.aicall.views ERROR    'SI_2062_2|SI_2065_206599|SI_2064_2' is not in list
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 101, in update_model
+    script = gen_script(model_info)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 219, in gen_script
+    filters = 'ALL' + str(filt.index(arr[0]))
+ValueError: 'SI_2062_2|SI_2065_206599|SI_2064_2' is not in list
+2019-03-09 18:42:45,698 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {}, "json": {"result": [{"node": "SA_2062_2", "lable": "意图结果", "type": 2}, {"node": "SA_2063_2", "lable": "意图结果", "type": 2}, {"node": "SA_2064_1", "lable": "意图结果", "type": 2}, {"node": "SA_2065_2", "lable": "意图结果", "type": 2}], "aprocess": [{"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2063_2->SA_2062_2", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2047", "tip": "分支意图名称2", "detail": "SI_2062_2->SA_2064_1", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2064_2->SA_2065_2", "user_talk": "关键字1 关键字2 关键字3"}], "tts": [{"tid": "SI_2062_2", "key": ""}, {"tid": "SA_2062_2", "key": ""}, {"tid": "SI_2063_2", "key": ""}, {"tid": "SA_2063_2", "key": ""}, {"tid": "SI_2064_2", "key": "keyOne"}, {"tid": "SA_2064_1", "key": ""}, {"tid": "SI_2065_206599", "key": ""}, {"tid": "SA_2065_2", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2061_1", "key": ""}, {"tid": "SUI_UI_2061_2", "key": ""}], "model_name": "51", "inodes": [{"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}], "anodes": [{"is_break": 1, "nid": "SI_2062_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2063_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2064_2", "content": "si话术内容#关键字1#"}, {"is_break": 1, "nid": "SI_2065_206599"}, {"is_break": 1, "nid": "SA_2062_2", "content": "sa话术内容[*SI_2062_2]"}, {"is_break": 1, "nid": "SA_2063_2", "content": "sa话术内容[*SI_2063_2]"}, {"is_break": 1, "nid": "SA_2064_1", "content": "。[*SI_2064_2]"}, {"is_break": 1, "nid": "SA_2065_2", "content": "sa话术内容[*SI_2065_206599]"}], "iprocess": [{"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}, {"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}], "cnodes": [{"is_break": 1, "nid": "触发逻辑2353", "content": "通用对话话术列表1"}, {"is_break": 1, "nid": "触发逻辑2354", "content": "通用对话话术列表2"}]}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "PostmanRuntime/7.6.0", "requestId": "1552128165693760"}}
+2019-03-09 18:42:45,698 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 18:42:45,699 werkzeug     INFO     10.111.23.237 - - [09/Mar/2019 18:42:45] "POST /user/user/update_model HTTP/1.1" 500 -
+2019-03-09 18:56:59,971 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-09 18:57:00,028 werkzeug     INFO      * Restarting with stat
+2019-03-09 18:57:00,408 werkzeug     WARNING   * Debugger is active!
+2019-03-09 18:57:00,409 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 18:57:04,305 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 18:57:04,306 werkzeug     INFO      * Restarting with stat
+2019-03-09 18:57:04,694 werkzeug     WARNING   * Debugger is active!
+2019-03-09 18:57:04,695 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 18:57:20,909 app          DEBUG    Start Once Access, and this requestId is 1552129040909178
+2019-03-09 18:57:20,909 root         ERROR    receive a request!!!!!!!!
+2019-03-09 18:57:20,912 root         DEBUG    {"AccessLog": {"status_code": 400, "method": "POST", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552129040909178"}}
+2019-03-09 18:57:20,912 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 18:57:20,913 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 18:57:20] "POST /user/user/update_model HTTP/1.1" 400 -
+2019-03-09 18:59:01,503 app          DEBUG    Start Once Access, and this requestId is 1552129141503297
+2019-03-09 18:59:01,504 root         ERROR    receive a request!!!!!!!!
+2019-03-09 18:59:01,566 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"result": [{"node": "SA_2062_2", "lable": " 意图结果", "type": 2}, {"node": "SA_2063_2", "lable": "意图结果", "type": 2}, {"node": "SA_2064_1", "lable": "意图结果", "type": 2}, {"node": "SA_2065_2", "lable": "意图结果", "type": 2}], "aprocess": [{"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2063_2->SA_2062_2", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2047", "tip": "分支意图名称2", "detail": "SI_2062_2->SA_2064_1", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2064_2->SA_2065_2", "user_talk": "关键字1 关键字2 关键字3"}], "tts": [{"tid": "SI_2062_2", "key": ""}, {"tid": "SA_2062_2", "key": ""}, {"tid": "SI_2063_2", "key": ""}, {"tid": "SA_2063_2", "key": ""}, {"tid": "SI_2064_2", "key": "keyOne"}, {"tid": "SA_2064_1", "key": ""}, {"tid": "SI_2065_206599", "key": ""}, {"tid": "SA_2065_2", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2061_1", "key": ""}, {"tid": "SUI_UI_2061_2", "key": ""}], "model_name": "51", "inodes": [{"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}], "anodes": [{"is_break": 1, "nid": "SI_2062_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2063_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2064_2", "content": "si话术内容#关键字1#"}, {"is_break": 1, "nid": "SI_2065_206599"}, {"is_break": 1, "nid": "SA_2062_2", "content": "sa话术内容[*SI_2062_2]"}, {"is_break": 1, "nid": "SA_2063_2", "content": "sa话术内容[*SI_2063_2]"}, {"is_break": 1, "nid": "SA_2064_1", "content": "。[*SI_2064_2]"}, {"is_break": 1, "nid": "SA_2065_2", "content": "sa话术内容[*SI_2065_206599]"}], "iprocess": [{"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}, {"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}], "cnodes": [{"is_break": 1, "nid": "触发逻辑2353", "content": "通用对话话术列表1"}, {"is_break": 1, "nid": "触发逻辑2354", "content": "通用对话话术列表2"}]}, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552129141503297"}}
+2019-03-09 18:59:01,567 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 18:59:01,567 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 18:59:01] "POST /user/user/update_model HTTP/1.1" 200 -
+2019-03-09 19:00:43,618 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-09 19:00:43,674 werkzeug     INFO      * Restarting with stat
+2019-03-09 19:00:44,075 werkzeug     WARNING   * Debugger is active!
+2019-03-09 19:00:44,076 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 19:00:46,863 app          DEBUG    Start Once Access, and this requestId is 1552129246863515
+2019-03-09 19:00:46,864 root         ERROR    receive a request!!!!!!!!
+2019-03-09 19:00:46,942 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"result": [{"node": "SA_2062_2", "lable": " 意图结果", "type": 2}, {"node": "SA_2063_2", "lable": "意图结果", "type": 2}, {"node": "SA_2064_1", "lable": "意图结果", "type": 2}, {"node": "SA_2065_2", "lable": "意图结果", "type": 2}], "aprocess": [{"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2063_2->SA_2062_2", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2047", "tip": "分支意图名称2", "detail": "SI_2062_2->SA_2064_1", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2064_2->SA_2065_2", "user_talk": "关键字1 关键字2 关键字3"}], "tts": [{"tid": "SI_2062_2", "key": ""}, {"tid": "SA_2062_2", "key": ""}, {"tid": "SI_2063_2", "key": ""}, {"tid": "SA_2063_2", "key": ""}, {"tid": "SI_2064_2", "key": "keyOne"}, {"tid": "SA_2064_1", "key": ""}, {"tid": "SI_2065_206599", "key": ""}, {"tid": "SA_2065_2", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2061_1", "key": ""}, {"tid": "SUI_UI_2061_2", "key": ""}], "model_name": "51", "inodes": [{"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}], "anodes": [{"is_break": 1, "nid": "SI_2062_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2063_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2064_2", "content": "si话术内容#关键字1#"}, {"is_break": 1, "nid": "SI_2065_206599"}, {"is_break": 1, "nid": "SA_2062_2", "content": "sa话术内容[*SI_2062_2]"}, {"is_break": 1, "nid": "SA_2063_2", "content": "sa话术内容[*SI_2063_2]"}, {"is_break": 1, "nid": "SA_2064_1", "content": "。[*SI_2064_2]"}, {"is_break": 1, "nid": "SA_2065_2", "content": "sa话术内容[*SI_2065_206599]"}], "iprocess": [{"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}, {"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}], "cnodes": [{"is_break": 1, "nid": "触发逻辑2353", "content": "通用对话话术列表1"}, {"is_break": 1, "nid": "触发逻辑2354", "content": "通用对话话术列表2"}]}, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552129246863515"}}
+2019-03-09 19:00:46,943 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 19:00:46,943 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 19:00:46] "POST /user/user/update_model HTTP/1.1" 200 -
+2019-03-09 19:02:07,814 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-09 19:02:07,872 werkzeug     INFO      * Restarting with stat
+2019-03-09 19:02:08,255 werkzeug     WARNING   * Debugger is active!
+2019-03-09 19:02:08,257 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 19:02:11,761 app          DEBUG    Start Once Access, and this requestId is 1552129331760916
+2019-03-09 19:02:11,761 root         ERROR    receive a request!!!!!!!!
+2019-03-09 19:02:11,808 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"result": [{"node": "SA_2062_2", "lable": " 意图结果", "type": 2}, {"node": "SA_2063_2", "lable": "意图结果", "type": 2}, {"node": "SA_2064_1", "lable": "意图结果", "type": 2}, {"node": "SA_2065_2", "lable": "意图结果", "type": 2}], "aprocess": [{"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2063_2->SA_2062_2", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2047", "tip": "分支意图名称2", "detail": "SI_2062_2->SA_2064_1", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2064_2->SA_2065_2", "user_talk": "关键字1 关键字2 关键字3"}], "tts": [{"tid": "SI_2062_2", "key": ""}, {"tid": "SA_2062_2", "key": ""}, {"tid": "SI_2063_2", "key": ""}, {"tid": "SA_2063_2", "key": ""}, {"tid": "SI_2064_2", "key": "keyOne"}, {"tid": "SA_2064_1", "key": ""}, {"tid": "SI_2065_206599", "key": ""}, {"tid": "SA_2065_2", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2061_1", "key": ""}, {"tid": "SUI_UI_2061_2", "key": ""}], "model_name": "51", "inodes": [{"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}], "anodes": [{"is_break": 1, "nid": "SI_2062_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2063_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2064_2", "content": "si话术内容#关键字1#"}, {"is_break": 1, "nid": "SI_2065_206599"}, {"is_break": 1, "nid": "SA_2062_2", "content": "sa话术内容[*SI_2062_2]"}, {"is_break": 1, "nid": "SA_2063_2", "content": "sa话术内容[*SI_2063_2]"}, {"is_break": 1, "nid": "SA_2064_1", "content": "。[*SI_2064_2]"}, {"is_break": 1, "nid": "SA_2065_2", "content": "sa话术内容[*SI_2065_206599]"}], "iprocess": [{"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}, {"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}], "cnodes": [{"is_break": 1, "nid": "触发逻辑2353", "content": "通用对话话术列表1"}, {"is_break": 1, "nid": "触发逻辑2354", "content": "通用对话话术列表2"}]}, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552129331760916"}}
+2019-03-09 19:02:11,809 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 19:02:11,809 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 19:02:11] "POST /user/user/update_model HTTP/1.1" 200 -
+2019-03-09 19:02:49,624 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-09 19:02:49,675 werkzeug     INFO      * Restarting with stat
+2019-03-09 19:04:10,581 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 19:04:10,582 werkzeug     INFO      * Restarting with stat
+2019-03-09 19:04:10,963 werkzeug     WARNING   * Debugger is active!
+2019-03-09 19:04:10,964 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 19:04:14,954 app          DEBUG    Start Once Access, and this requestId is 1552129454954373
+2019-03-09 19:04:14,954 root         ERROR    receive a request!!!!!!!!
+2019-03-09 19:04:14,999 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"result": [{"node": "SA_2062_2", "lable": " 意图结果", "type": 2}, {"node": "SA_2063_2", "lable": "意图结果", "type": 2}, {"node": "SA_2064_1", "lable": "意图结果", "type": 2}, {"node": "SA_2065_2", "lable": "意图结果", "type": 2}], "aprocess": [{"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2063_2->SA_2062_2", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2047", "tip": "分支意图名称2", "detail": "SI_2062_2->SA_2064_1", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2064_2->SA_2065_2", "user_talk": "关键字1 关键字2 关键字3"}], "tts": [{"tid": "SI_2062_2", "key": ""}, {"tid": "SA_2062_2", "key": ""}, {"tid": "SI_2063_2", "key": ""}, {"tid": "SA_2063_2", "key": ""}, {"tid": "SI_2064_2", "key": "keyOne"}, {"tid": "SA_2064_1", "key": ""}, {"tid": "SI_2065_206599", "key": ""}, {"tid": "SA_2065_2", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2061_1", "key": ""}, {"tid": "SUI_UI_2061_2", "key": ""}], "model_name": "51", "inodes": [{"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}], "anodes": [{"is_break": 1, "nid": "SI_2062_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2063_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2064_2", "content": "si话术内容#关键字1#"}, {"is_break": 1, "nid": "SI_2065_206599"}, {"is_break": 1, "nid": "SA_2062_2", "content": "sa话术内容[*SI_2062_2]"}, {"is_break": 1, "nid": "SA_2063_2", "content": "sa话术内容[*SI_2063_2]"}, {"is_break": 1, "nid": "SA_2064_1", "content": "。[*SI_2064_2]"}, {"is_break": 1, "nid": "SA_2065_2", "content": "sa话术内容[*SI_2065_206599]"}], "iprocess": [{"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}, {"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}], "cnodes": [{"is_break": 1, "nid": "触发逻辑2353", "content": "通用对话话术列表1"}, {"is_break": 1, "nid": "触发逻辑2354", "content": "通用对话话术列表2"}]}, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552129454954373"}}
+2019-03-09 19:04:14,999 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 19:04:14,999 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 19:04:14] "POST /user/user/update_model HTTP/1.1" 200 -
+2019-03-09 19:04:43,259 werkzeug     INFO      * Detected change in '/home/support/deploy/openapi_geo/app/aicall/views.py', reloading
+2019-03-09 19:04:43,302 werkzeug     INFO      * Restarting with stat
+2019-03-09 19:05:09,033 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 19:05:09,034 werkzeug     INFO      * Restarting with stat
+2019-03-09 19:05:09,410 werkzeug     WARNING   * Debugger is active!
+2019-03-09 19:05:09,412 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 19:05:12,127 app          DEBUG    Start Once Access, and this requestId is 1552129512127826
+2019-03-09 19:05:12,128 root         ERROR    receive a request!!!!!!!!
+2019-03-09 19:05:12,181 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"result": [{"node": "SA_2062_2", "lable": " 意图结果", "type": 2}, {"node": "SA_2063_2", "lable": "意图结果", "type": 2}, {"node": "SA_2064_1", "lable": "意图结果", "type": 2}, {"node": "SA_2065_2", "lable": "意图结果", "type": 2}], "aprocess": [{"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2063_2->SA_2062_2", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2047", "tip": "分支意图名称2", "detail": "SI_2062_2->SA_2064_1", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2064_2->SA_2065_2", "user_talk": "关键字1 关键字2 关键字3"}], "tts": [{"tid": "SI_2062_2", "key": ""}, {"tid": "SA_2062_2", "key": ""}, {"tid": "SI_2063_2", "key": ""}, {"tid": "SA_2063_2", "key": ""}, {"tid": "SI_2064_2", "key": "keyOne"}, {"tid": "SA_2064_1", "key": ""}, {"tid": "SI_2065_206599", "key": ""}, {"tid": "SA_2065_2", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2061_1", "key": ""}, {"tid": "SUI_UI_2061_2", "key": ""}], "model_name": "51", "inodes": [{"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}], "anodes": [{"is_break": 1, "nid": "SI_2062_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2063_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2064_2", "content": "si话术内容#关键字1#"}, {"is_break": 1, "nid": "SI_2065_206599"}, {"is_break": 1, "nid": "SA_2062_2", "content": "sa话术内容[*SI_2062_2]"}, {"is_break": 1, "nid": "SA_2063_2", "content": "sa话术内容[*SI_2063_2]"}, {"is_break": 1, "nid": "SA_2064_1", "content": "。[*SI_2064_2]"}, {"is_break": 1, "nid": "SA_2065_2", "content": "sa话术内容[*SI_2065_206599]"}], "iprocess": [{"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}, {"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}], "cnodes": [{"is_break": 1, "nid": "触发逻辑2353", "content": "通用对话话术列表1"}, {"is_break": 1, "nid": "触发逻辑2354", "content": "通用对话话术列表2"}]}, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552129512127826"}}
+2019-03-09 19:05:12,181 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 19:05:12,181 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 19:05:12] "POST /user/user/update_model HTTP/1.1" 200 -
+2019-03-09 19:06:09,928 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-09 19:06:09,929 werkzeug     INFO      * Restarting with stat
+2019-03-09 19:06:10,309 werkzeug     WARNING   * Debugger is active!
+2019-03-09 19:06:10,310 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-09 19:06:29,200 app          DEBUG    Start Once Access, and this requestId is 1552129589200469
+2019-03-09 19:06:29,200 root         ERROR    receive a request!!!!!!!!
+2019-03-09 19:06:29,246 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"result": [{"node": "SA_2062_2", "lable": " 意图结果", "type": 2}, {"node": "SA_2063_2", "lable": "意图结果", "type": 2}, {"node": "SA_2064_1", "lable": "意图结果", "type": 2}, {"node": "SA_2065_2", "lable": "意图结果", "type": 2}], "aprocess": [{"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2063_2->SA_2062_2", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2047", "tip": "分支意图名称2", "detail": "SI_2062_2->SA_2064_1", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2064_2->SA_2065_2", "user_talk": "关键字1 关键字2 关键字3"}], "tts": [{"tid": "SI_2062_2", "key": ""}, {"tid": "SA_2062_2", "key": ""}, {"tid": "SI_2063_2", "key": ""}, {"tid": "SA_2063_2", "key": ""}, {"tid": "SI_2064_2", "key": "keyOne"}, {"tid": "SA_2064_1", "key": ""}, {"tid": "SI_2065_206599", "key": ""}, {"tid": "SA_2065_2", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2061_1", "key": ""}, {"tid": "SUI_UI_2061_2", "key": ""}], "model_name": "51", "inodes": [{"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}], "anodes": [{"is_break": 1, "nid": "SI_2062_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2063_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2064_2", "content": "si话术内容#关键字1#"}, {"is_break": 1, "nid": "SI_2065_206599"}, {"is_break": 1, "nid": "SA_2062_2", "content": "sa话术内容[*SI_2062_2]"}, {"is_break": 1, "nid": "SA_2063_2", "content": "sa话术内容[*SI_2063_2]"}, {"is_break": 1, "nid": "SA_2064_1", "content": "。[*SI_2064_2]"}, {"is_break": 1, "nid": "SA_2065_2", "content": "sa话术内容[*SI_2065_206599]"}], "iprocess": [{"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}, {"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}], "cnodes": [{"is_break": 1, "nid": "触发逻辑2353", "content": "通用对话话术列表1"}, {"is_break": 1, "nid": "触发逻辑2354", "content": "通用对话话术列表2"}]}, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552129589200469"}}
+2019-03-09 19:06:29,247 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 19:06:29,247 werkzeug     INFO     10.111.25.92 - - [09/Mar/2019 19:06:29] "POST /user/user/update_model HTTP/1.1" 200 -
+2019-03-09 19:07:05,646 app          DEBUG    Start Once Access, and this requestId is 1552129625646643
+2019-03-09 19:07:05,647 root         ERROR    receive a request!!!!!!!!
+2019-03-09 19:07:05,687 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"result": [{"node": "SA_2062_2", "lable": "意图结果", "type": 2}, {"node": "SA_2063_2", "lable": "意图结果", "type": 2}, {"node": "SA_2064_1", "lable": "意图结果", "type": 2}, {"node": "SA_2065_2", "lable": "意图结果", "type": 2}], "aprocess": [{"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2063_2->SA_2062_2", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2047", "tip": "分支意图名称2", "detail": "SI_2062_2->SA_2064_1", "user_talk": "关键字1 关键字2 关键字3"}, {"pid": "UA2046", "tip": "分支意图名称", "detail": "SI_2064_2->SA_2065_2", "user_talk": "关键字1 关键字2 关键字3"}], "tts": [{"tid": "SI_2062_2", "key": ""}, {"tid": "SA_2062_2", "key": ""}, {"tid": "SI_2063_2", "key": ""}, {"tid": "SA_2063_2", "key": ""}, {"tid": "SI_2064_2", "key": "keyOne"}, {"tid": "SA_2064_1", "key": ""}, {"tid": "SI_2065_206599", "key": ""}, {"tid": "SA_2065_2", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2059_1", "key": ""}, {"tid": "SUI_UI_2060_1", "key": ""}, {"tid": "SUI_UI_2061_1", "key": ""}, {"tid": "SUI_UI_2061_2", "key": ""}], "model_name": "51", "inodes": [{"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2059_1", "content": "string"}, {"is_break": 1, "nid": "SUI_UI_2060_1", "content": "string"}], "anodes": [{"is_break": 1, "nid": "SI_2062_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2063_2", "content": "si话术内容"}, {"is_break": 1, "nid": "SI_2064_2", "content": "si话术内容#关键字1#"}, {"is_break": 1, "nid": "SI_2065_206599"}, {"is_break": 1, "nid": "SA_2062_2", "content": "sa话术内容[*SI_2062_2]"}, {"is_break": 1, "nid": "SA_2063_2", "content": "sa话术内容[*SI_2063_2]"}, {"is_break": 1, "nid": "SA_2064_1", "content": "。[*SI_2064_2]"}, {"is_break": 1, "nid": "SA_2065_2", "content": "sa话术内容[*SI_2065_206599]"}], "iprocess": [{"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}, {"pid": "I_UI_2059_1", "tip": "模型51常见问答1", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2059_1", "user_talk": "关键词1 关键词2"}, {"pid": "I_UI_2060_1", "tip": "模型51常见问答2", "detail": "SI_2063_2|SI_2062_2|SI_2065_206599|SI_2064_2->SUI_UI_2060_1", "user_talk": "关键词3 关键词4"}], "cnodes": [{"is_break": 1, "nid": "触发逻辑2353", "content": "通用对话话术列表1"}, {"is_break": 1, "nid": "触发逻辑2354", "content": "通用对话话术列表2"}]}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/update_model", "referer": null, "agent": "PostmanRuntime/7.6.0", "requestId": "1552129625646643"}}
+2019-03-09 19:07:05,687 root         ERROR    process finish a request!!!!!!!!
+2019-03-09 19:07:05,688 werkzeug     INFO     10.111.23.237 - - [09/Mar/2019 19:07:05] "POST /user/user/update_model HTTP/1.1" 200 -
+2019-03-11 10:29:54,112 app          DEBUG    Start Once Access, and this requestId is 1552271394112495
+2019-03-11 10:29:54,113 root         ERROR    receive a request!!!!!!!!
+2019-03-11 10:29:54,115 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 146, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-11 10:29:54,118 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552271394112495"}}
+2019-03-11 10:29:54,119 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 10:29:54,119 werkzeug     INFO     10.111.23.237 - - [11/Mar/2019 10:29:54] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-11 11:06:31,869 app          DEBUG    Start Once Access, and this requestId is 1552273591869708
+2019-03-11 11:06:31,870 root         ERROR    receive a request!!!!!!!!
+2019-03-11 11:06:31,871 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 146, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-11 11:06:31,873 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552273591869708"}}
+2019-03-11 11:06:31,873 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 11:06:31,927 app          DEBUG    Start Once Access, and this requestId is 1552273591927903
+2019-03-11 11:06:31,928 werkzeug     INFO     10.111.23.237 - - [11/Mar/2019 11:06:31] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-11 11:06:31,928 root         ERROR    receive a request!!!!!!!!
+2019-03-11 11:06:31,929 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 146, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-11 11:06:31,930 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552273591927903"}}
+2019-03-11 11:06:31,931 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 11:06:31,931 werkzeug     INFO     10.111.23.237 - - [11/Mar/2019 11:06:31] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-11 11:08:16,955 app          DEBUG    Start Once Access, and this requestId is 1552273696955185
+2019-03-11 11:08:16,955 root         ERROR    receive a request!!!!!!!!
+2019-03-11 11:08:16,958 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 146, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-11 11:08:16,959 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"phone": "617778052354", "job": "1", "businessId": "1", "taskId": "1", "callId": "2", "result_begin_url": "http://115.28.173.108:5001/user/user/", "result_end_url": "http://115.28.173.108:5001/user/user/", "result_dlg_url": "http://115.28.173.108:5001/user/user/"}, "json": null, "ip": "10.111.25.34", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "PostmanRuntime/7.1.1", "requestId": "1552273696955185"}}
+2019-03-11 11:08:16,959 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 11:08:16,960 werkzeug     INFO     10.111.25.34 - - [11/Mar/2019 11:08:16] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-11 11:10:48,074 app          DEBUG    Start Once Access, and this requestId is 1552273848074207
+2019-03-11 11:10:48,074 root         ERROR    receive a request!!!!!!!!
+2019-03-11 11:10:48,075 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 146, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-11 11:10:48,077 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552273848074207"}}
+2019-03-11 11:10:48,077 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 11:10:48,078 werkzeug     INFO     10.111.23.237 - - [11/Mar/2019 11:10:48] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-11 12:25:57,563 app          DEBUG    Start Once Access, and this requestId is 1552278357563683
+2019-03-11 12:25:57,564 root         ERROR    receive a request!!!!!!!!
+2019-03-11 12:25:57,565 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 146, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-11 12:25:57,566 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552278357563683"}}
+2019-03-11 12:25:57,567 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 12:25:57,567 werkzeug     INFO     10.111.23.237 - - [11/Mar/2019 12:25:57] "POST /user/user/add_task HTTP/1.1" 500 -
+2019-03-11 12:27:14,236 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-11 12:27:14,237 werkzeug     INFO      * Restarting with stat
+2019-03-11 12:27:14,625 werkzeug     WARNING   * Debugger is active!
+2019-03-11 12:27:14,626 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-11 12:27:18,825 werkzeug     INFO      * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2019-03-11 12:27:18,826 werkzeug     INFO      * Restarting with stat
+2019-03-11 12:27:19,210 werkzeug     WARNING   * Debugger is active!
+2019-03-11 12:27:19,211 werkzeug     INFO      * Debugger PIN: 152-441-389
+2019-03-11 12:27:48,870 app          DEBUG    Start Once Access, and this requestId is 1552278468869992
+2019-03-11 12:27:48,870 root         ERROR    receive a request!!!!!!!!
+2019-03-11 12:27:48,872 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 146, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-11 12:27:48,876 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "GET", "form": {}, "json": null, "ip": "10.111.25.92", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0", "requestId": "1552278468869992"}}
+2019-03-11 12:27:48,877 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 12:28:32,684 app          DEBUG    Start Once Access, and this requestId is 1552278512684052
+2019-03-11 12:28:32,684 root         ERROR    receive a request!!!!!!!!
+2019-03-11 12:28:32,686 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 146, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-11 12:28:32,688 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552278512684052"}}
+2019-03-11 12:28:32,689 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 14:13:15,282 app          DEBUG    Start Once Access, and this requestId is 1552284795282711
+2019-03-11 14:13:15,283 root         ERROR    receive a request!!!!!!!!
+2019-03-11 14:13:15,285 app.aicall.views ERROR    'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/support/deploy/openapi_geo/py3env/lib/python3.6/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/support/deploy/openapi_geo/app/aicall/views.py", line 146, in add_task
+    data["result_dlg_url"] = urllib.parse.unquote(data.get("result_dlg_url",""))
+AttributeError: 'NoneType' object has no attribute 'get'
+2019-03-11 14:13:15,287 root         DEBUG    {"AccessLog": {"status_code": 500, "method": "POST", "form": {"phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "taskId": "1", "job": "msyh_cuishou", "tts": "{\"name\":\"城\"}", "callId": "1", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "businessId": "1"}, "json": null, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552284795282711"}}
+2019-03-11 14:13:15,288 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 14:14:27,621 app          DEBUG    Start Once Access, and this requestId is 1552284867621348
+2019-03-11 14:14:27,621 root         ERROR    receive a request!!!!!!!!
+2019-03-11 14:14:27,627 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-11 14:14:27,631 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 61
+2019-03-11 14:14:27,632 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"callId": 1, "tts": "{\"name\":\"城\"}", "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552284867621348"}}
+2019-03-11 14:14:27,633 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 14:21:00,078 app          DEBUG    Start Once Access, and this requestId is 1552285260078451
+2019-03-11 14:21:00,078 root         ERROR    receive a request!!!!!!!!
+2019-03-11 14:21:00,082 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-11 14:21:00,085 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 61
+2019-03-11 14:21:00,087 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"callId": 1, "tts": "{\"name\":\"城\"}", "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552285260078451"}}
+2019-03-11 14:21:00,088 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 15:12:16,592 app          DEBUG    Start Once Access, and this requestId is 1552288336592020
+2019-03-11 15:12:16,592 root         ERROR    receive a request!!!!!!!!
+2019-03-11 15:12:16,598 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-11 15:12:16,601 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 61
+2019-03-11 15:12:16,603 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"callId": 1, "tts": "{\"name\":\"城\"}", "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552288336592020"}}
+2019-03-11 15:12:16,604 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 16:53:21,135 app          DEBUG    Start Once Access, and this requestId is 1552294401135789
+2019-03-11 16:53:21,136 root         ERROR    receive a request!!!!!!!!
+2019-03-11 16:53:21,140 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-11 16:53:21,144 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 746
+2019-03-11 16:53:21,147 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"callId": 1, "tts": {"name": "城"}, "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "mi_cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "PostmanRuntime/7.6.0", "requestId": "1552294401135789"}}
+2019-03-11 16:53:21,148 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 16:55:41,130 app          DEBUG    Start Once Access, and this requestId is 1552294541130070
+2019-03-11 16:55:41,132 root         ERROR    receive a request!!!!!!!!
+2019-03-11 16:55:41,139 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-11 16:55:41,144 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 746
+2019-03-11 16:55:41,146 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"callId": 1, "tts": {"name": "城"}, "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "mi_cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552294541130070"}}
+2019-03-11 16:55:41,147 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 17:05:10,720 app          DEBUG    Start Once Access, and this requestId is 1552295110720794
+2019-03-11 17:05:10,721 root         ERROR    receive a request!!!!!!!!
+2019-03-11 17:05:10,725 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-11 17:05:10,728 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 758
+2019-03-11 17:05:10,730 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"callId": 1, "tts": "{\"name\":\"城\"}", "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "mi_cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552295110720794"}}
+2019-03-11 17:05:10,731 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 17:05:10,786 app          DEBUG    Start Once Access, and this requestId is 1552295110786748
+2019-03-11 17:05:10,786 root         ERROR    receive a request!!!!!!!!
+2019-03-11 17:05:10,789 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-11 17:05:10,791 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 758
+2019-03-11 17:05:10,793 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"callId": 1, "tts": "{\"name\":\"城\"}", "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "mi_cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552295110786748"}}
+2019-03-11 17:05:10,794 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 17:05:10,806 app          DEBUG    Start Once Access, and this requestId is 1552295110806013
+2019-03-11 17:05:10,806 root         ERROR    receive a request!!!!!!!!
+2019-03-11 17:05:10,808 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-11 17:05:10,811 urllib3.connectionpool DEBUG    http://10.111.32.252:8988 "POST /user/user/add_task HTTP/1.1" 200 746
+2019-03-11 17:05:10,814 root         DEBUG    {"AccessLog": {"status_code": 200, "method": "POST", "form": {}, "json": {"callId": 1, "tts": {"name": "城"}, "phone": "615201279608", "result_dlg_url": "http://10.111.23.237:8091/smartCall/api/call/robot/saveDialog", "result_end_url": "http://10.111.23.237:8091/smartCall/api/call/callEnd", "businessId": 1, "result_begin_url": "http://10.111.23.237:8091/smartCall/api/call/callStart", "job": "mi_cuishou", "taskId": 1}, "ip": "10.111.23.237", "url": "http://10.111.32.252:5001/user/user/add_task", "referer": null, "agent": "okhttp/3.13.0", "requestId": "1552295110806013"}}
+2019-03-11 17:05:10,814 root         ERROR    process finish a request!!!!!!!!
+2019-03-11 17:39:25,374 app          DEBUG    Start Once Access, and this requestId is 1552297165374078
+2019-03-11 17:39:25,374 root         ERROR    receive a request!!!!!!!!
+2019-03-11 17:39:25,379 urllib3.connectionpool DEBUG    Starting new HTTP connection (1): 10.111.32.252:8988
+2019-03-11 17:39:25,383 urllib3.connectionpool DEBUG    http://10.111.32.

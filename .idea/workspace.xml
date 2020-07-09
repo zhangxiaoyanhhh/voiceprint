@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fed75f6-d572-4114-8f8b-7a928ff4637f" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1UYd1Cl7PojjwvD8E7iZnY0Tth6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\新建文件夹\bishe2\app\main" />
+      <recent name="F:\bishe2\app\main" />
+      <recent name="F:\bishe2\app\voice\test" />
+      <recent name="D:\软件\hp_upload\bishe2\app\static\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\新建文件夹\bishe2\app\voice\train" />
+      <recent name="F:\新建文件夹\bishe2\app\main" />
+      <recent name="F:\新建文件夹\bishe2\app\voice" />
+      <recent name="F:\新建文件夹\bishe2\app\voice\test" />
+      <recent name="F:\bishe2\app\voice\train" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/api/shengwen" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://127.0.0.1:8080" />
+          <option name="urlPath" value="/api/shengwen" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/api/shengwen" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mianshi3">
+    <configuration name="mianshi1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bishe2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/main/mianshi1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mianshi2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bishe2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/main/mianshi2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mianshi3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bishe2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/main/mianshi3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pncc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bishe2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/main/pncc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_app_dev" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bishe2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_app_dev.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.pncc" />
+      <item itemvalue="Python.run_app_dev" />
+      <item itemvalue="Python.mianshi1" />
+      <item itemvalue="Python.mianshi2" />
+      <item itemvalue="Python.mianshi3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mianshi3" />
+        <item itemvalue="Python.mianshi2" />
+        <item itemvalue="Python.mianshi1" />
+        <item itemvalue="Python.pncc" />
+        <item itemvalue="Python.run_app_dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fed75f6-d572-4114-8f8b-7a928ff4637f" name="Default" comment="" />
+      <created>1575516587215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575516587215</updated>
+      <workItem from="1575516588362" duration="16327000" />
+      <workItem from="1575540369213" duration="1319000" />
+      <workItem from="1575549863455" duration="5773000" />
+      <workItem from="1575557090203" duration="2479000" />
+      <workItem from="1575595285584" duration="2000" />
+      <workItem from="1575597388619" duration="13000" />
+      <workItem from="1575604681630" duration="564000" />
+      <workItem from="1575605254292" duration="193000" />
+      <workItem from="1575605512967" duration="3003000" />
+      <workItem from="1575620536151" duration="327000" />
+      <workItem from="1575620938347" duration="1806000" />
+      <workItem from="1575689883064" duration="1305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33111000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584164952744">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state x="399" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1303.768@0.0.1303.768" timestamp="1584164952744" />
+    <state x="382" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584601939499">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="382" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1304.768@0.0.1304.768" timestamp="1584601939499" />
+    <state x="430" y="139" key="FileChooserDialogImpl" timestamp="1586947289400">
+      <screen x="0" y="0" width="1297" height="768" />
+    </state>
+    <state x="430" y="139" key="FileChooserDialogImpl/0.0.1297.768@0.0.1297.768" timestamp="1586947289400" />
+    <state x="432" y="139" key="FileChooserDialogImpl/0.0.1303.768@0.0.1303.768" timestamp="1584105561625" />
+    <state x="432" y="139" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1585472793699" />
+    <state width="1282" height="195" key="GridCell.Tab.0.bottom" timestamp="1590751651738">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state width="1276" height="59" key="GridCell.Tab.0.bottom/0.0.1297.768@0.0.1297.768" timestamp="1586961780520" />
+    <state width="1277" height="70" key="GridCell.Tab.0.bottom/0.0.1298.768@0.0.1298.768" timestamp="1588003119918" />
+    <state width="1278" height="173" key="GridCell.Tab.0.bottom/0.0.1299.768@0.0.1299.768" timestamp="1588474515100" />
+    <state width="1281" height="218" key="GridCell.Tab.0.bottom/0.0.1302.768@0.0.1302.768" timestamp="1590728127467" />
+    <state width="1282" height="195" key="GridCell.Tab.0.bottom/0.0.1303.768@0.0.1303.768" timestamp="1590751651738" />
+    <state width="1283" height="298" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1588865696844" />
+    <state width="1282" height="195" key="GridCell.Tab.0.center" timestamp="1590751651738">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state width="1276" height="59" key="GridCell.Tab.0.center/0.0.1297.768@0.0.1297.768" timestamp="1586961780520" />
+    <state width="1277" height="70" key="GridCell.Tab.0.center/0.0.1298.768@0.0.1298.768" timestamp="1588003119918" />
+    <state width="1278" height="173" key="GridCell.Tab.0.center/0.0.1299.768@0.0.1299.768" timestamp="1588474515100" />
+    <state width="1281" height="218" key="GridCell.Tab.0.center/0.0.1302.768@0.0.1302.768" timestamp="1590728127466" />
+    <state width="1282" height="195" key="GridCell.Tab.0.center/0.0.1303.768@0.0.1303.768" timestamp="1590751651738" />
+    <state width="1283" height="298" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1588865696844" />
+    <state width="1282" height="195" key="GridCell.Tab.0.left" timestamp="1590751651738">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state width="1276" height="59" key="GridCell.Tab.0.left/0.0.1297.768@0.0.1297.768" timestamp="1586961780520" />
+    <state width="1277" height="70" key="GridCell.Tab.0.left/0.0.1298.768@0.0.1298.768" timestamp="1588003119918" />
+    <state width="1278" height="173" key="GridCell.Tab.0.left/0.0.1299.768@0.0.1299.768" timestamp="1588474515099" />
+    <state width="1281" height="218" key="GridCell.Tab.0.left/0.0.1302.768@0.0.1302.768" timestamp="1590728127466" />
+    <state width="1282" height="195" key="GridCell.Tab.0.left/0.0.1303.768@0.0.1303.768" timestamp="1590751651738" />
+    <state width="1283" height="298" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1588865696844" />
+    <state width="1282" height="195" key="GridCell.Tab.0.right" timestamp="1590751651738">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state width="1276" height="59" key="GridCell.Tab.0.right/0.0.1297.768@0.0.1297.768" timestamp="1586961780520" />
+    <state width="1277" height="70" key="GridCell.Tab.0.right/0.0.1298.768@0.0.1298.768" timestamp="1588003119918" />
+    <state width="1278" height="173" key="GridCell.Tab.0.right/0.0.1299.768@0.0.1299.768" timestamp="1588474515100" />
+    <state width="1281" height="218" key="GridCell.Tab.0.right/0.0.1302.768@0.0.1302.768" timestamp="1590728127467" />
+    <state width="1282" height="195" key="GridCell.Tab.0.right/0.0.1303.768@0.0.1303.768" timestamp="1590751651738" />
+    <state width="1283" height="298" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1588865696844" />
+    <state width="1278" height="375" key="GridCell.Tab.1.bottom" timestamp="1588345322930">
+      <screen x="0" y="0" width="1299" height="768" />
+    </state>
+    <state width="1276" height="375" key="GridCell.Tab.1.bottom/0.0.1297.768@0.0.1297.768" timestamp="1586881719978" />
+    <state width="1277" height="375" key="GridCell.Tab.1.bottom/0.0.1298.768@0.0.1298.768" timestamp="1587658378736" />
+    <state width="1278" height="375" key="GridCell.Tab.1.bottom/0.0.1299.768@0.0.1299.768" timestamp="1588345322930" />
+    <state width="1282" height="76" key="GridCell.Tab.1.bottom/0.0.1303.768@0.0.1303.768" timestamp="1584371995432" />
+    <state width="1282" height="76" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1584437716877" />
+    <state width="1278" height="375" key="GridCell.Tab.1.center" timestamp="1588345322930">
+      <screen x="0" y="0" width="1299" height="768" />
+    </state>
+    <state width="1276" height="375" key="GridCell.Tab.1.center/0.0.1297.768@0.0.1297.768" timestamp="1586881719978" />
+    <state width="1277" height="375" key="GridCell.Tab.1.center/0.0.1298.768@0.0.1298.768" timestamp="1587658378735" />
+    <state width="1278" height="375" key="GridCell.Tab.1.center/0.0.1299.768@0.0.1299.768" timestamp="1588345322930" />
+    <state width="1282" height="76" key="GridCell.Tab.1.center/0.0.1303.768@0.0.1303.768" timestamp="1584371995432" />
+    <state width="1282" height="76" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1584437716877" />
+    <state width="1278" height="375" key="GridCell.Tab.1.left" timestamp="1588345322930">
+      <screen x="0" y="0" width="1299" height="768" />
+    </state>
+    <state width="1276" height="375" key="GridCell.Tab.1.left/0.0.1297.768@0.0.1297.768" timestamp="1586881719978" />
+    <state width="1277" height="375" key="GridCell.Tab.1.left/0.0.1298.768@0.0.1298.768" timestamp="1587658378735" />
+    <state width="1278" height="375" key="GridCell.Tab.1.left/0.0.1299.768@0.0.1299.768" timestamp="1588345322930" />
+    <state width="1282" height="76" key="GridCell.Tab.1.left/0.0.1303.768@0.0.1303.768" timestamp="1584371995432" />
+    <state width="1282" height="76" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1584437716877" />
+    <state width="1278" height="375" key="GridCell.Tab.1.right" timestamp="1588345322930">
+      <screen x="0" y="0" width="1299" height="768" />
+    </state>
+    <state width="1276" height="375" key="GridCell.Tab.1.right/0.0.1297.768@0.0.1297.768" timestamp="1586881719978" />
+    <state width="1277" height="375" key="GridCell.Tab.1.right/0.0.1298.768@0.0.1298.768" timestamp="1587658378736" />
+    <state width="1278" height="375" key="GridCell.Tab.1.right/0.0.1299.768@0.0.1299.768" timestamp="1588345322930" />
+    <state width="1282" height="76" key="GridCell.Tab.1.right/0.0.1303.768@0.0.1303.768" timestamp="1584371995432" />
+    <state width="1282" height="76" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1584437716877" />
+    <state x="152" y="26" key="SettingsEditor" timestamp="1588328837246">
+      <screen x="0" y="0" width="1299" height="768" />
+    </state>
+    <state x="152" y="26" key="SettingsEditor/0.0.1297.768@0.0.1297.768" timestamp="1586535054458" />
+    <state x="152" y="26" key="SettingsEditor/0.0.1298.768@0.0.1298.768" timestamp="1587629336900" />
+    <state x="152" y="26" key="SettingsEditor/0.0.1299.768@0.0.1299.768" timestamp="1588328837246" />
+    <state x="153" y="26" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1583134821513" />
+    <state x="337" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1590567177140">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="335" y="208" key="com.intellij.ide.util.TipDialog/0.0.1297.768@0.0.1297.768" timestamp="1586918010901" />
+    <state x="335" y="208" key="com.intellij.ide.util.TipDialog/0.0.1298.768@0.0.1298.768" timestamp="1587969342782" />
+    <state x="336" y="208" key="com.intellij.ide.util.TipDialog/0.0.1299.768@0.0.1299.768" timestamp="1588473592173" />
+    <state x="337" y="208" key="com.intellij.ide.util.TipDialog/0.0.1302.768@0.0.1302.768" timestamp="1590567177140" />
+    <state x="337" y="208" key="com.intellij.ide.util.TipDialog/0.0.1303.768@0.0.1303.768" timestamp="1589184196811" />
+    <state x="337" y="208" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1588929440783" />
+    <state x="315" y="89" width="675" height="678" key="search.everywhere.popup" timestamp="1590250554176">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="314" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1298.768@0.0.1298.768" timestamp="1587194758267" />
+    <state x="315" y="89" width="675" height="678" key="search.everywhere.popup/0.0.1302.768@0.0.1302.768" timestamp="1590250554176" />
+    <state x="315" y="89" width="675" height="678" key="search.everywhere.popup/0.0.1303.768@0.0.1303.768" timestamp="1589180362554" />
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1583288181921" />
+  </component>
+</project>

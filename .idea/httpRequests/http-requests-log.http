@@ -1,0 +1,112 @@
+POST http://localhost:63342
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-05T110805.400.html
+
+###
+
+POST http://localhost:63342/api/shengwen
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-05T110743.404.html
+
+###
+
+POST http://localhost:63342/api/shengwen
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-05T110740.404.html
+
+###
+
+POST http://localhost:63342/api/shengwen
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-05T110739.404.html
+
+###
+
+POST http://localhost:63342
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-05T110713.400.html
+
+###
+
+POST http://127.0.0.1:5100
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://10.28.167.109
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://10.28.167.109:5100
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://10.28.167.109:5100
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://127.0.0.1:5100
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://127.0.0.1:5100
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://127.0.0.1:5100/api/shengwen
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://127.0.0.1:8080/api/shengwen
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-05T104807.404.txt
+
+###
+
+POST http://localhost:8080/api/shengwen
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-05T104509.404.txt
+
+###
+
+POST http://localhost:8080/api/shengwen
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-05T104039.404.txt
+
+###
+
+POST 127.0.0.0:5100/api/shengwen
+Accept: */*
+Cache-Control: no-cache
+
+###
+
